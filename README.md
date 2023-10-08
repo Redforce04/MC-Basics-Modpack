@@ -93,7 +93,7 @@ If you have an issue with this pack feel free to reach out. You can:
 - Create a github issue with any issues, feedback or feature requests.
 - Reach out to me over Discord (Redforce04).
 
-
-
+<br>
+<br>
 I hope you enjoy the modpack!
 - Redforce04
