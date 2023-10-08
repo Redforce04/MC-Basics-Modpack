@@ -95,5 +95,5 @@ If you have an issue with this pack feel free to reach out. You can:
 
 <br>
 <br>
-I hope you enjoy the modpack!
+I hope you enjoy the modpack! <br>
 - Redforce04
