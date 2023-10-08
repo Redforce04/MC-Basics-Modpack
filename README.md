@@ -10,8 +10,15 @@ This pack also contains recommended shaders in all installations. I have gathere
 If you have any questions comments or concerns, reach out via the methods outlined below in the `Contact` section. 
 
 ## Installation Methods
-- Zip files can be found in the Releases tab for `Curseforge`, and `Manual Installation`.
+- Zip files can be found in the Releases tab for `Curseforge`, and `Manual Installation`. Additionally you can use the cdn links below.
+- CDN Download Links (***These Will Instantly Install***):
+  - [Curseforge Fabric Version](https://cdn.peanutworshipers.net/CurseforgeFabricMCBasics.zip)
+  - [Curseforge Forge Version](https://cdn.peanutworshipers.net/CurseforgeForgeMCBasics.zip)
+  - [Manual Installation Fabric Version](https://cdn.peanutworshipers.net/ManualFabricMCBasics.zip)
+  - [Manual Installation Forge Version](https://cdn.peanutworshipers.net/ManualForgeMCBasics.zip)
 - Technic launcher has the pack released as both `Forge MC Basics` and `Fabric MC Basics`.
+  - [Technic Launcher Fabric Version](https://www.technicpack.net/modpack/fabric-mc-basics.1976918)
+  - [Technic Launcher Forge Version](https://www.technicpack.net/modpack/forge-mc-basics.1976916)
 - The Curseforge release must be installed manually, as it is not publicly published.
 
 
